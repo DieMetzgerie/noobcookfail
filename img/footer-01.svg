@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 2378.2 811.1" style="enable-background:new 0 0 2378.2 811.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:none;stroke:#FD322B;stroke-width:9.6;}
+	.st2{fill:none;stroke:#FD322B;stroke-width:0.4;}
+	.st3{fill:#FE5F55;}
+	.st4{fill:url(#SVGID_3_);}
+	.st5{fill:url(#SVGID_4_);}
+</style>
+<pattern  y="761.1" width="82.8" height="72" patternUnits="userSpaceOnUse" id="SVGID_1_" viewBox="0 -72 82.8 72" style="overflow:visible;">
+	<g>
+		<rect y="-72" class="st0" width="82.8" height="72"/>
+		<g>
+			<rect y="-72" class="st0" width="82.8" height="72"/>
+			<line class="st1" x1="41.4" y1="-72" x2="41.4" y2="0"/>
+			<line class="st1" x1="13.8" y1="-72" x2="13.8" y2="0"/>
+			<line class="st1" x1="69" y1="-72" x2="69" y2="0"/>
+			<line class="st2" x1="49.8" y1="-72" x2="49.8" y2="0"/>
+			<line class="st2" x1="22.2" y1="-72" x2="22.2" y2="0"/>
+			<line class="st2" x1="77.4" y1="-72" x2="77.4" y2="0"/>
+			<line class="st2" x1="5.4" y1="-72" x2="5.4" y2="0"/>
+			<line class="st2" x1="33" y1="-72" x2="33" y2="0"/>
+			<line class="st2" x1="60.6" y1="-72" x2="60.6" y2="0"/>
+		</g>
+	</g>
+</pattern>
+<pattern  y="761.1" width="82.8" height="72" patternUnits="userSpaceOnUse" id="SVGID_2_" viewBox="0 -72 82.8 72" style="overflow:visible;">
+	<g>
+		<rect y="-72" class="st0" width="82.8" height="72"/>
+		<g>
+			<rect y="-72" class="st0" width="82.8" height="72"/>
+			<line class="st1" x1="41.4" y1="-72" x2="41.4" y2="0"/>
+			<line class="st1" x1="13.8" y1="-72" x2="13.8" y2="0"/>
+			<line class="st1" x1="69" y1="-72" x2="69" y2="0"/>
+			<line class="st2" x1="49.8" y1="-72" x2="49.8" y2="0"/>
+			<line class="st2" x1="22.2" y1="-72" x2="22.2" y2="0"/>
+			<line class="st2" x1="77.4" y1="-72" x2="77.4" y2="0"/>
+			<line class="st2" x1="5.4" y1="-72" x2="5.4" y2="0"/>
+			<line class="st2" x1="33" y1="-72" x2="33" y2="0"/>
+			<line class="st2" x1="60.6" y1="-72" x2="60.6" y2="0"/>
+		</g>
+	</g>
+</pattern>
+<rect y="0.1" class="st3" width="2374" height="811"/>
+<pattern  id="SVGID_3_" xlink:href="#SVGID_1_" patternTransform="matrix(1 0 0 -1 -69.4 -15845.2988)">
+</pattern>
+<rect y="0.1" class="st4" width="2374" height="83.3"/>
+<pattern  id="SVGID_4_" xlink:href="#SVGID_2_" patternTransform="matrix(1 0 0 -1 -69.4 -15795.2988)">
+</pattern>
+<rect y="774.1" class="st5" width="2374" height="37"/>
+</svg>
